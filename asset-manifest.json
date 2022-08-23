@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/showdomilhao/static/css/main.5bdf1db5.css",
+    "main.js": "/showdomilhao/static/js/main.700265d0.js",
+    "static/js/787.c74d0e55.chunk.js": "/showdomilhao/static/js/787.c74d0e55.chunk.js",
+    "index.html": "/showdomilhao/index.html",
+    "main.5bdf1db5.css.map": "/showdomilhao/static/css/main.5bdf1db5.css.map",
+    "main.700265d0.js.map": "/showdomilhao/static/js/main.700265d0.js.map",
+    "787.c74d0e55.chunk.js.map": "/showdomilhao/static/js/787.c74d0e55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bdf1db5.css",
+    "static/js/main.700265d0.js"
+  ]
+}
